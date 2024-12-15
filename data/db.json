@@ -1,0 +1,74 @@
+{
+  "notes": [
+   
+    {
+      "id": "0d3f",
+      "title": "Internet Bill",
+      "details": "Pay the internet Bill",
+      "category": "money"
+    },
+ 
+        {
+          "id": "4b1c",
+          "title": "Prepare Monthly Report",
+          "details": "Complete and submit the monthly sales report by the end of the day. Include all data from the last quarter.",
+          "category": "work"
+        },
+        {
+          "id": "7a2e",
+          "title": "Buy Groceries for Dinner",
+          "details": "Pick up fresh vegetables, chicken, and spices for tonight’s meal.",
+          "category": "todos"
+        },
+        {
+          "id": "56e9",
+          "title": "Update Project Documentation",
+          "details": "Add the latest changes and finalize the documentation for the current sprint.",
+          "category": "work"
+        },
+        {
+          "id": "3f4d",
+          "title": "Call Dentist Office",
+          "details": "Schedule an appointment for a regular dental cleaning next week.",
+          "category": "reminders"
+        },
+        {
+          "id": "19a7",
+          "title": "Pay Electricity Bill",
+          "details": "Log in to the utility portal and make the payment before the due date.",
+          "category": "money"
+        },
+        {
+          "id": "8e23",
+          "title": "Team Presentation",
+          "details": "Prepare slides for the team’s presentation about the new features being released this quarter.",
+          "category": "work"
+        },
+        {
+          "id": "20b4",
+          "title": "Water the Plants",
+          "details": "Water all the indoor plants, especially the new ones in the living room.",
+          "category": "todos"
+        },
+        {
+          "id": "92c5",
+          "title": "Set Reminder for Car Maintenance",
+          "details": "Call the service center and confirm the maintenance appointment for next Friday.",
+          "category": "reminders"
+        },
+        {
+          "id": "15d8",
+          "title": "Budget for Vacation",
+          "details": "Plan the budget for the upcoming family trip. Include travel, lodging, and activities.",
+          "category": "money"
+        },
+        {
+          "id": "71a9",
+          "title": "Write Blog Post",
+          "details": "Draft and finalize the blog post about effective time management techniques.",
+          "category": "work"
+        }
+    
+    
+  ]
+}
